@@ -11,7 +11,7 @@ https://docs.google.com/spreadsheets/d/1C9I_7a3-eO5hj0Xx1lxjz8f2D5Xo9r9KS9aTACu2
 
 ## Rezultati simulacij:
 
-V mapi \textit{Rezultati simulacij} so priloženi grafi in datoteke spodaj navedenih simulacij:
+V mapi *Rezultati simulacij* so priloženi grafi in datoteke spodaj navedenih simulacij:
 1. Racionalni igralec brez slučajnih mehanik
 2. Racionalni igralec z delnimi nagradami v primeru neuspeha
 3. Racionalni igralec z delnimi nagradami in dodatno postreženimi jedmi (začetni k = 0.1)
