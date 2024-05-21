@@ -10,14 +10,16 @@ Oblikovana ekonomija igre je dostopna na povezavi:
 https://docs.google.com/spreadsheets/d/1C9I_7a3-eO5hj0Xx1lxjz8f2D5Xo9r9KS9aTACu2eHw/edit#gid=1944518292
 
 ## Rezultati simulacij:
+
+V mapi \textit{Rezultati simulacij} so priloženi grafi in datoteke spodaj navedenih simulacij:
 1. Racionalni igralec brez slučajnih mehanik
 2. Racionalni igralec z delnimi nagradami v primeru neuspeha
 3. Racionalni igralec z delnimi nagradami in dodatno postreženimi jedmi (začetni k = 0.1)
 4. Racionalni igralec z delnimi nagradami in dodatno postreženimi jedmi (začetni k = 1)
 5. Racionalni igralec z delnimi nagradami in dodatno postreženimi jedmi (začetni k = 0.1), ki si video pozicije ogleduje z verjetnostjo 0.05
 6. Racionalni igralec z delnimi nagradami in dodatno postreženimi jedmi (začetni k = 0.1), ki si video pozicije ogleduje z verjetnostjo 1
-7. Racionalni igralec z delnimi nagradami in dodatno postreženimi jedmi (začetni k = 0.1), ki v igri zapravi $20
-8. Racionalni igralec z delnimi nagradami in dodatno postreženimi jedmi (začetni k = 0.1), ki v igri zapravi $5
+7. Racionalni igralec z delnimi nagradami in dodatno postreženimi jedmi (začetni k = 0.1), ki v igri zapravi $5
+8. Racionalni igralec z delnimi nagradami in dodatno postreženimi jedmi (začetni k = 0.1), ki v igri zapravi $20
 9. Racionalni igralec z delnimi nagradami in dodatno postreženimi jedmi (začetni k = 0.1), ki v igri zapravi $100
 10. Racionalni igralec z delnimi nagradami in dodatno postreženimi jedmi (začetni k = 0.1), ki v igri zapravi $20 in vsako video pozicijo gleda z verjetnostjo 0.05
 11. Racionalni igralec z delnimi nagradami in dodatno postreženimi jedmi (začetni k = 0.1), ki dnevno v igri zapravi med 1 in 10 življenj
